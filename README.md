@@ -9,3 +9,11 @@ The project uses 6 Volts (unlike the earlier iterations which used 12Volts) and 
 
 How it works:
 A 6V battery powers the circuit while an Arduino Uno relays commands of which component should be on/off according to the code on the Arduino IDE. TIP120 and 1N4007 are there to primarily maintain electrical flow. This circuit powers 2 air pumps/compressors and 2 solenoid valves (although it can be adjusted to power just one of each as was done in this wearable). Furthermore, the circuit is electropneumatic, and it contains a "pneumatic" component in the way the air pumps and solenoid valves are conntected to each other through plastic piping and finally connected to the actuator. This part of the circuit maintains pneumatic flow and allows solenoid valves and air pumps to act as both inlets and outlets (if more than one is used). 
+
+
+An example of the before and after:
+
+**Before**
+<img width="1832" height="1304" alt="image" src="https://github.com/user-attachments/assets/e8f6089b-c8e3-42c0-9605-1c16a74d7f5a" />
+
+**Now: ElectroWEAR**
