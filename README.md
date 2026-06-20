@@ -2,7 +2,7 @@
 
 
 Inspiration: 
-I've been working on an electropneumatically powered mechanotherapy wearable for breast cancer survivors, including in my last iteration (link to that abstract is here: https://www.overleaf.com/read/rxshvgcpytvv#2f1c8a) where I created custome soft actuator structures for this application. However, the last electropneumatic system I made was powered by a 12 Volt battery + hard to integrate into a wearable. I wanted to make an electropneumatic system that can be easier to integrate into a mechanotherapy vest for breast cancer survivors.
+I've been working on an electropneumatically powered mechanotherapy wearable for breast cancer survivors, including in my last iteration (link to that abstract is here: https://www.overleaf.com/read/rxshvgcpytvv#2f1c8a) in which I created custom soft actuator structures for this application. However, the last electropneumatic system I made was powered by a 12 Volt battery + hard to integrate into a wearable. I wanted to make an electropneumatic system that can be easier to integrate into a mechanotherapy vest for breast cancer survivors.
 
 What the project does:
 The project uses 6 Volts (not 12Volts) and smaller components to make the electropneumatic as compact as possible so that it can  be integrated into a garment.
