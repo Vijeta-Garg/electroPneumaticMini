@@ -19,6 +19,10 @@ An example of the before and after:
 **Now: ElectroWEAR**
 <img width="982" height="1316" alt="image" src="https://github.com/user-attachments/assets/508ca864-12ce-4caa-93dc-d4b3f13c385f" />
 
+# Schematic 
+This is the wiring diagram/schematic. This includes both the electrical parts of the circuit (contained in the "main circuit board") and the pneumatic parts of the circuit (which are integrated across the wearable rather than in the gray pocket on the bottom-left)!
+<img width="1968" height="1366" alt="image" src="https://github.com/user-attachments/assets/90bc1018-b635-41c0-b0ff-a7858eef6635" />
+
 
 # BOM (properly formatted in the bom.csv file in the repo) 
 Please note: I don't need reimbursement for any of these materials since I can use research grant money I've gotten for this project! 
