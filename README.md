@@ -31,7 +31,8 @@ This is the wiring diagram/schematic. This includes both the electrical parts of
 
 # How to build this? 
 
-*include Zine here! 
+<img width="974" height="1380" alt="image" src="https://github.com/user-attachments/assets/fae11431-6cc1-4bef-807f-88670916a616" />
+
 
 # BOM (properly formatted in the bom.csv file in the repo) 
 Please note: I don't need reimbursement for any of these materials since I can use research grant money I've gotten for this project! 
