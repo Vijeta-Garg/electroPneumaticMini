@@ -48,5 +48,5 @@ Also note: if one was to wear ElectroWEAR the battery component would theoretica
 
 # BOM (properly formatted in the bom.csv file in the repo) 
 Please note: I don't need reimbursement for any of these materials since I can use research grant money I've gotten for this project! 
-<img width="2708" height="498" alt="image" src="https://github.com/user-attachments/assets/2550d27e-26f0-40a2-9f4b-4c4d42f4d633" />
+<img width="2010" height="772" alt="image" src="https://github.com/user-attachments/assets/a1dbf324-60ee-4ab0-be81-242c7361af18" />
 
