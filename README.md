@@ -21,7 +21,7 @@ An example of the before and after:
 
 # Schematic 
 This is the wiring diagram/schematic. This includes both the electrical parts of the circuit (contained in the "main circuit board") and the pneumatic parts of the circuit (which are integrated across the wearable rather than in the gray pocket on the bottom-left)!
-<img width="1776" height="1166" alt="image" src="https://github.com/user-attachments/assets/20c83b9a-02ff-4674-aa87-99106a88089b" />
+<img width="2110" height="1420" alt="image" src="https://github.com/user-attachments/assets/7e0cbb61-3047-4823-97fa-ad72eabaa2fa" />
 
 
 # Layout 
@@ -33,6 +33,8 @@ Also note: if one was to wear ElectroWEAR the battery component would theoretica
 # PCB and CAD 
 Here is a 3D version of my PCB! Note: The PCB isn't printed yet but it would essentially just replace the breadboard in the breadboard pocket as it has all the same parts. 
 <img width="2144" height="1220" alt="image" src="https://github.com/user-attachments/assets/e483beb1-a2c3-4759-b6f4-262c7c3bb517" />
+<img width="1802" height="1222" alt="image" src="https://github.com/user-attachments/assets/578c3398-7c94-4b16-873f-a12c2ec6c7b7" />
+
 
 I also CADDed some connectors for the pneumatic circuit to connect the smaller pipes to the bigger ones (both are necessarybecause some the valve and air pump work better with some but the actuator works better with the smaller pipe). This solves the previous issue of using tape because you can just print this out and use it to connect the 1/4'' in OD piping and the 1/8'' in OD piping. 
 <img width="1130" height="814" alt="image" src="https://github.com/user-attachments/assets/bef9e32a-f16a-4a4d-8975-8b663ca495e7" />
