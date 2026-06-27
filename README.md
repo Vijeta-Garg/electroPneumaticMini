@@ -30,10 +30,12 @@ Also note: if one was to wear ElectroWEAR the battery component would theoretica
 <img width="1444" height="1458" alt="image" src="https://github.com/user-attachments/assets/24f5f97b-4b9d-451f-9d9e-56101a5b2028" />
 
 
-# PCB (and maybe CAD) 
+# PCB and CAD 
 Here is a 3D version of my PCB! Note: The PCB isn't printed yet but it would essentially just replace the breadboard in the breadboard pocket as it has all the same parts. 
 <img width="2144" height="1220" alt="image" src="https://github.com/user-attachments/assets/e483beb1-a2c3-4759-b6f4-262c7c3bb517" />
 
+I also CADDed some connectors for the pneumatic circuit to connect the smaller pipes to the bigger ones (both are necessarybecause some the valve and air pump work better with some but the actuator works better with the smaller pipe) 
+https://www.tinkercad.com/things/jGbuTJKzcDS/edit?returnTo=%2Fdashboard&sharecode=0BTtQNpM6YuViGaWplz6nGzc2ZjLgraPeQsmGDZI_-0
 
 # How to build this? 
 1. Wire up the main electrical component (refer to the schematic in pcb folder). Every solenoid valve or air pump added require the same subset of wiring: TIP120 connected to 1N4007 diode and also connected to the component and GND and Power rails.
